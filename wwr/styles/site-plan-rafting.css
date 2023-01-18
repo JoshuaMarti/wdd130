@@ -4,7 +4,7 @@ Any spaces in your font name should be replaced with a +.
 Fonts are separated by a & */
 @font-face {
     font-family: "LCARS";
-    src: url("/styles/lcars.ttf");
+    src: url("https://assets.talesandtips.com/wdd130/lcars.ttf");
 }
 
 :root {
