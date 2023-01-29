@@ -1,0 +1,40 @@
+body {
+    background-color: #fca6c9;
+    font-family: sans-serif;
+}
+main {
+    margin: 0 auto
+    
+}
+section{
+    width: 50%;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+h2 {
+    font-family: serif;
+    font-weight: 200;
+}
+h1:hover {
+    color: black;
+}
+p {
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+img {
+    width: 30%;
+    padding-left: 35%;
+}
+
+* {
+    border-color: blue;
+    border-width:  5px;
+    border-style: dashed;
+}
