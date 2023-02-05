@@ -1,0 +1,16 @@
+#pics {
+    background-color: grey;
+    margin: auto;
+    text-align: center;
+}
+body {
+    margin: 0;
+    background-color: grey;
+}
+#pics img {
+    border-radius: 50%;
+    width: 24%;
+    border: .7em solid black;
+    margin: 2%;
+    
+}
